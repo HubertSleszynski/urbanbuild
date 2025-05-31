@@ -1,18 +1,25 @@
-source
-> https://www.youtube.com/watch?v=VgO5WxSY_64
+# UrbanBuild
 
-```powershell
-$env:HTTP_PROXY="http://127.0.0.1:7890"
-$env:HTTPS_PROXY="http://127.0.0.1:7890"
-```
+My personal web application project showcases a modern and professional presentation of a construction company using Next.js, TailwindCSS, and Framer Motion.
 
-> https://ui.shadcn.com/docs/installation/next
-```powershell
-npx shadcn@latest init
-npx shadcn@latest add tabs
-npx shadcn@latest add input select sheet
-npx shadcn@latest add textarea
+## Tech Stack
 
-npm i framer-motion react-countup react-icons swiper react-scroll
-npm i --save-dev @types/react-scroll
-```
+Next.js | TailwindCSS | Framer Motion
+
+## Demo
+
+LIVE: [UrbanBuild](https://hrs-urbanbuild.netlify.app/)
+
+## Screenshot
+
+<img src="/public/assets/urbanbuild.png" width="800">
+
+## Author
+
+### Hubert Śleszyński
+
+Portfolio: https://hrs-dev.netlify.app/
+
+Linkedin: https://www.linkedin.com/in/hubertsleszynski/
+
+Github: https://github.com/HubertSleszynski
